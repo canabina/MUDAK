@@ -16,4 +16,4 @@ make commit
 
 make revert
 
-`$ mudak make revert -m '${message}'`
+`$ mudak make revert -m '${message}' -i ${commit id}`
