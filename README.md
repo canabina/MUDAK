@@ -9,6 +9,7 @@ init repo
 `$ mudak make init`
 
 make commit
+
 `$ mudak make commit -m '${message}'`
 
 `$ mudak make commit -m '${message}'`
